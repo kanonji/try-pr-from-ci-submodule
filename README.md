@@ -3,3 +3,4 @@ When this repo is updated, Travis CI will send PR to https://github.com/kanonji/
 ## Changes
 
 * foo
+* bar
